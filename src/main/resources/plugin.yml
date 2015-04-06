@@ -1,0 +1,8 @@
+name: ZSurvivalGames
+version: 1.6
+authors: [michidk]
+
+main: me.michidk.zsurvivalgames.Main
+depend: [DKLib, ZCore]
+softdepend: [ZSignAdapter]
+
